@@ -1,0 +1,15 @@
+{
+    "force":true,
+    "app":{
+        "cfengine":"lucee@4.5"
+    },
+    "openbrowser":"false",
+    "web":{
+        "http":{
+            "port":"50680"
+        },
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
